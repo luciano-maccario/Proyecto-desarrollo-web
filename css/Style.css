@@ -1,0 +1,511 @@
+body {
+  background-color: #f5f5f5; /* Color de fondo */
+  font-family: "Arial", sans-serif; /* Tipografía */
+  color: #333333;
+}
+
+footer {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+   position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+}
+
+
+
+
+/*menu nav*/
+
+.navbarNavDropdown {
+  margin-left: 50px;
+}
+.navbar {
+  height: 130px; /* altura */
+ 
+}
+
+.logo2 {
+  margin-right: 20px; 
+  width: 200px; 
+
+}
+
+.logo {
+  height: 40px; 
+  width: auto; 
+  max-width: 0%;
+}
+
+.nav-link {
+  font-weight: bold; /* negrita */
+}
+  /*fin menu nav*/
+
+  /*menu banner*/
+
+ 
+  
+  .inicio {
+    /* Estilos para la imagen de fondo */
+    background-image: url(../img/panoramica1.png);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    position: relative;
+    margin-top: 130px;
+  }
+  .sobre-nosotros {
+    /* Estilos para la imagen de fondo */
+    background-image: url(../img/portada-sobre-nosotros.png);
+    height: 400px;
+    position: relative;
+    margin-top: 130px;
+    margin-bottom: 300px;
+  }
+  .propiedades {
+    /* Estilos para la imagen de fondo */
+    background-image: url(../img/portada-propiedades.png);
+    height: 400px;
+    position: relative;
+    margin-top: 130px;
+    margin-bottom: 20px;
+  }
+  .fondo3{
+    /* Estilos para la capa de superposición */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #181818;
+    opacity: 0.5;
+  }
+  
+  .texto-sobre-img-1 {
+    /* Estilo para el contenedor del texto */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .texto-sobre-img {
+    /* Estilo para el texto */
+    color: #ffffff;
+    font-size: 45px;
+  }
+ 
+  /*fin menu banner*/
+
+  /*inicio secciones*/
+  .articulo1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  
+  .articulo1a {
+    display: flex;
+    flex-direction: row;
+    align-items: right;
+  }
+  
+  .articulo-info1 {
+    flex: 1;
+    padding-right: 0px;
+    padding-left: 320px;
+  }
+  
+  .articulo-img {
+    flex: 1;
+    text-align: left;
+    padding-left: 30px;
+  }
+  
+  .articulo-img img {
+    max-width: 30%;
+    height: auto;
+  }
+  
+  
+
+
+
+
+
+  .articulo2 {
+    display: flex;
+    justify-content: left;
+    margin-bottom: 30px;
+  }
+  
+  .articulo2a {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+  }
+  
+  .articulo-info2 {
+    flex: 1;
+    padding-right: 220px;
+    padding-left: 0px;
+  }
+  
+  .articulo-img2 {
+    flex: 1;
+    text-align: right;
+    padding-left: 0px;
+    padding-right: 30px;
+  }
+  
+  .articulo-img2 img {
+    max-width: 35%;
+    height: auto;
+  }
+  
+
+
+
+
+
+
+
+
+  .articulo3 {
+    display: flex;
+    justify-content: center;
+    
+   
+  }
+  
+  .articulo3a {
+    display: flex;
+    flex-direction: row;
+    align-items: right;
+  }
+  
+  .articulo-info3 {
+    flex: 1;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  
+  .articulo-img3 {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .articulo-img3 img {
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 30px;
+  }
+  
+
+
+
+
+
+  
+  .contacto-index {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+  }
+
+  
+  .custom-btn {
+    background-color: #2e9274; /* Cambiar el color de fondo */
+    color: #000000; /* Cambiar el color del texto */
+    font-weight: bold;
+    padding: 10px 20px;
+    
+  }
+  
+  /*fin secciones*/
+
+    /*inicio footer*/
+
+    .footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+      }
+      
+      .seccion-izquierda {
+        text-align: left;
+      }
+      
+      .seccion-derecha {
+        text-align: right;
+      }
+      
+      .social-media {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+      }
+      
+    
+      
+
+.bi-facebook {
+  margin-bottom: 50px;
+  width: 30px; 
+  height: 30px;
+  margin-right: 50px;
+}
+.bi-instagram {
+  margin-bottom: 50px;
+  width: 30px; 
+  height: 30px;
+  margin-right: 50px;
+}.bi-whatsapp {
+  margin-bottom: 50px;
+  width: 30px; 
+  height: 30px;
+  margin-right: 50px;
+}
+
+
+
+
+
+      .footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+      }
+      
+      .address {
+        display: flex;
+        align-items: left;
+        margin-bottom: 10px;
+      }
+      
+      .icon {
+        width: 20px;
+        height: 30px;
+        margin-right: 5px;
+      }
+      
+      .text {
+        margin: 0;
+        margin-right: 100px;
+      }
+      .copyright {
+        text-align: center;
+        margin-top: 10px;
+      }
+          
+      
+  /*fin footer*/
+
+
+ 
+  /*sobre nosotros pestaña*/
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 10px;
+    margin-bottom: 300px;
+  }
+  
+  .table-container {
+    width: 90%; /* Ajusta el ancho según tus necesidades */
+  }
+  
+  .center-table {
+    width: 100%;
+    border-collapse: collapse;
+  
+  }
+  
+  .center-table td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  
+  
+  .nosotros1 {
+    max-width: 100%; /* Modificar el valor según el tamaño deseado */
+    height: auto;
+    
+  }
+  .mapa {
+    border: 2px solid #000;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    
+    
+  }
+  .mapa-borde {
+    width: auto;
+    height: 100%;
+    
+  }
+.viendo {
+  padding: 100px
+}
+  /*edicion de las propiedades*/
+
+  .container-prop {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 15px;
+    
+  }
+  
+  .table-container-prop {
+    width: 100%;
+   
+  }
+  
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .custom-table td {
+    padding: 10px;
+    border: 1px solid #000;
+    text-align: center;
+  }
+  
+  .custom-table img {
+    width: 100%;
+  height: 250px;
+  object-fit: cover;
+  }
+  
+  .custom-table p {
+    margin-bottom: 10px;
+  }
+  
+  .custom-table button {
+    padding: 5px 10px;
+  }
+    
+
+  .texto-propiedades {
+    text-align: center;
+    flex-basis: 100%;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  .custom-table h3 {
+    margin: 10px 0;
+  }
+  
+  
+  /*fin de edicion de las propiedades*/
+
+  /*tasaciones*/
+
+  .tasaciones {
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    padding: 50px;
+    margin-bottom: 300px;
+    margin-top: 50px;
+  }
+  
+  h1, h2, p, ul {
+    text-align: center;
+  }
+
+  .titulo-vivienda {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+
+  
+  /* fin tasaciones*/
+
+  /*inicio formulario*/
+
+  .contacto {
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin-bottom: 100PX;
+  }
+  
+  .contacto h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .contacto p {
+    margin-bottom: 20px;
+  }
+  
+  .contacto form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .contacto form input,
+  .contacto form textarea {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+  }
+  
+  .contact-box form button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contact-box form button:hover {
+    background-color: #45a049;
+  }
+  
+
+
+  /*fin formulario*/

@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>instagram-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #f5f1ff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+	</style>
+	<path id="Layer" class="s0" d="m4 16v-8c0-2.2 1.8-4 4-4h8c2.2 0 4 1.8 4 4v8c0 2.2-1.8 4-4 4h-8c-2.2 0-4-1.8-4-4zm12.6-8.8h0.1m-0.9 4.8c0 2.1-1.7 3.8-3.8 3.8-2.1 0-3.8-1.7-3.8-3.8 0.1-2.1 1.7-3.8 3.8-3.8 2.1 0 3.8 1.7 3.8 3.8z"/>
+</svg>

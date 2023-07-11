@@ -1,0 +1,24 @@
+Desktop:
+
+"INDEX": https://whimsical.com/inicio-2SJHDxNF5zwmcmDeEWMoM6
+
+"SOBRE NOSOTROS": https://whimsical.com/sobre-nosotros-9by2MDEzESLYgwcSSs7bsN
+
+"PROPIEDADES": https://whimsical.com/propiedades-EKdpUjuF8ofvSpu7G7H6dA
+
+"TASACIONES": https://whimsical.com/tasaciones-69pNGSY8cJKd8GeLygTH7j
+
+"CONTACTANOS": https://whimsical.com/contactanos-G555v5KfAHxGgYjinKWLeN
+
+
+Mobile:
+
+"INDEX": https://whimsical.com/incio-6vpy4kfEaXV32um73fHnyt
+
+"SOBRE NOSOTROS": https://whimsical.com/sobre-nosotros-Bich9dChV6MNZVHTAyb9K6
+
+"PROPIEDADES": https://whimsical.com/propiedades-ABoMNHB9bRpZQwQu8CUcBo
+
+"TASACIONES": https://whimsical.com/tasaciones-KzD3CiC5dZcNdEsQBjKTLs
+
+"CONTACTO": https://whimsical.com/contacto-D7262ci1x8b9TTBqYQNnyt
